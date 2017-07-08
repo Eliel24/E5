@@ -29,6 +29,7 @@ namespace E5
 			if (Promedio >= 7)
 			{
 				Console.Write("Promocionado");
+
 			}
 			Console.ReadKey();
 		}
